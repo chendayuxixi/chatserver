@@ -1,0 +1,3 @@
+/home/chendayu/桌面/chatserver-master/chatserver-master/test/testmuduo/CMakeFiles/rebuild_cache.dir
+/home/chendayu/桌面/chatserver-master/chatserver-master/test/testmuduo/CMakeFiles/edit_cache.dir
+/home/chendayu/桌面/chatserver-master/chatserver-master/test/testmuduo/CMakeFiles/server.dir
